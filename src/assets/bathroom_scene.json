@@ -1,0 +1,463 @@
+{
+    "objects": {
+      "NeoProduct.2F5719CC-6988-4FE6-9F13-85EB565A1A20": {
+        "category": "walls",
+        "placements": [
+          {
+            "position": [
+              -0.26999998092651367,
+              1.5,
+              1.7999999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.2F5719CC-6988-4FE6-9F13-85EB565A1A20",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Wall_walls_0.glb"
+        }
+      },
+      "NeoProduct.F04C971F-BB98-457D-8C92-88D34557B123": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              -1,
+              1.4700000286102295,
+              1.7999999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.F04C971F-BB98-457D-8C92-88D34557B123",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Wall_walls_1.glb"
+        }
+      },
+      "NeoProduct.F4AD10C2-A9BD-4A7C-962C-69A5E6DC47B6": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              -0.06000000238418579,
+              -1.8299999237060547,
+              1.7999999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.F4AD10C2-A9BD-4A7C-962C-69A5E6DC47B6",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Wall_walls_3.glb"
+        }
+      },
+      "NeoProduct.52CE0D4F-2E89-4611-BF03-C5C696BDC03E": {
+        "category": "walls",
+        "placements": [
+          {
+            "position": [
+              1.6099998950958252,
+              -0.09999996423721313,
+              1.7999999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.52CE0D4F-2E89-4611-BF03-C5C696BDC03E",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Wall_walls_4.glb"
+        }
+      },
+      "NeoProduct.295066AC-1FBB-43E7-9DEA-2EE0698E4CE2": {
+        "category": "walls",
+        "placements": [
+          {
+            "position": [
+              0.6699999570846558,
+              1.630000114440918,
+              1.7999999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.295066AC-1FBB-43E7-9DEA-2EE0698E4CE2",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Wall_walls_5.glb"
+        }
+      },
+      "NeoProduct.BA85F05C-5A52-4059-B7F9-24150A897E08": {
+        "category": "floors",
+        "placements": [
+          {
+            "position": [
+              -0.06000000238418579,
+              -0.09999996423721313,
+              0.0005000000237487257
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.BA85F05C-5A52-4059-B7F9-24150A897E08",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Room_floors.glb"
+        }
+      },
+      "NeoProduct.31DBF0C3-FDF9-4C97-A9B7-603392DD83A9": {
+        "category": "doors",
+        "placements": [
+          {
+            "position": [
+              -0.12000000476837158,
+              -1.7799999713897705,
+              1.4249999523162842
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.31DBF0C3-FDF9-4C97-A9B7-603392DD83A9",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_door_0.glb"
+        }
+      },
+      "NeoProduct.D23F09B7-C7E5-4397-B05F-63E473A4A9D6": {
+        "category": "doors",
+        "placements": [
+          {
+            "position": [
+              -0.3496435880661011,
+              7.711120630915502e-9,
+              -0.15714684128761292
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.D23F09B7-C7E5-4397-B05F-63E473A4A9D6",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_doorway_handle_1.glb"
+        }
+      },
+      "NeoProduct.F591AEC9-FCDD-49D0-A6A9-679BEE558FC9": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.559999942779541,
+              -1.25,
+              2.259999990463257
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.F591AEC9-FCDD-49D0-A6A9-679BEE558FC9",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_window_0.glb"
+        }
+      },
+      "NeoProduct.60F2B341-3D36-467B-9A40-5461586D53C5": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.2100000381469727,
+              -1,
+              0.5299999713897705
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.60F2B341-3D36-467B-9A40-5461586D53C5",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_bathtub_1.glb"
+        }
+      },
+      "NeoProduct.B6603387-EAAA-47C1-931F-224097557180": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.4500000476837158,
+              0,
+              1.3899999856948853
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.B6603387-EAAA-47C1-931F-224097557180",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_shelves_0.glb"
+        }
+      },
+      "NeoProduct.2BA42A72-A49C-42F0-9136-7648E242BDB0": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.2756521701812744,
+              -0.49448975920677185,
+              2.068533420562744
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.2BA42A72-A49C-42F0-9136-7648E242BDB0",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_mirror_0.glb"
+        }
+      },
+      "NeoProduct.3870C7C1-9791-479E-93A5-C234517F2200": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              0.5,
+              -1.5,
+              0.9500000476837158
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.3870C7C1-9791-479E-93A5-C234517F2200",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_flower_vase_0.glb"
+        }
+      },
+      "NeoProduct.FC3BC7E2-34FF-4538-936F-B11937FD1F03": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.4136433601379395,
+              -1.4071273803710938,
+              1.2892004251480103
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.FC3BC7E2-34FF-4538-936F-B11937FD1F03",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_modern_shelves_0.glb"
+        }
+      },
+      "NeoProduct.42659BA8-8413-4B16-808A-34DAABAFA034": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.0499999523162842,
+              1.0700000524520874,
+              1
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.42659BA8-8413-4B16-808A-34DAABAFA034",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_corner_shower_0.glb"
+        }
+      },
+      "NeoProduct.07991F5D-3DBC-4C3A-8A9B-A9AEEF9C9537": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.2999999523162842,
+              -0.800000011920929,
+              3.4700000286102295
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.07991F5D-3DBC-4C3A-8A9B-A9AEEF9C9537",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_large_round_mirror_0.glb"
+        }
+      },
+      "NeoProduct.6CD5FB55-BC68-43A4-9749-33942E2462F6": {
+        "category": "objects",
+        "placements": [
+          {
+            "position": [
+              1.436829686164856,
+              -0.07445552945137024,
+              0.07149016857147217
+            ],
+            "rotation": [
+              0,
+              0,
+              0
+            ],
+            "scale": 1
+          }
+        ],
+        "bbox_size": [
+          1,
+          1,
+          1
+        ],
+        "identifier": "NeoProduct.6CD5FB55-BC68-43A4-9749-33942E2462F6",
+        "metadata": {
+          "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/compact_bathroom_new-Object_floral_decor_0.glb"
+        }
+      }
+    }
+  }

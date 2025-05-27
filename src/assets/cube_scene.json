@@ -1,0 +1,85 @@
+{
+    "objects": {
+        "NeoProduct.9ABEDDFE-DECC-40EA-9987-3A3F2602F4C8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": 1
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "NeoProduct.9ABEDDFE-DECC-40EA-9987-3A3F2602F4C8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/Two-Object_Cube.glb"
+            }
+        },
+        "NeoProduct.FC8BADB3-DB15-4FCA-A621-16611E9BBE75": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.2485260963439941,
+                        4.322272300720215,
+                        1.2132742404937744
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": 1
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "NeoProduct.FC8BADB3-DB15-4FCA-A621-16611E9BBE75",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/Two-Object_Cube_001.glb"
+            }
+        },
+        "NeoProduct.CD479FA4-CC75-48D3-8A9D-8B82B9A8607E": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.396989345550537,
+                        3.685417413711548,
+                        0.4238889813423157
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": 1
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "NeoProduct.CD479FA4-CC75-48D3-8A9D-8B82B9A8607E",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com/spatio/Two-Object_Cube_002.glb"
+            }
+        }
+    }
+}

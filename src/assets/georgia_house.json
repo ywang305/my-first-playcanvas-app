@@ -1,0 +1,5748 @@
+{
+    "objects": {
+        "offerpad-Wall": {
+            "category": "walls",
+            "identifier": "offerpad-Wall",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        3.225771427154541,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.glb"
+            }
+        },
+        "offerpad-Wall.001": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.001",
+            "placements": [
+                {
+                    "position": [
+                        -5.130340099334717,
+                        -1.8398417234420776,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.001.glb"
+            }
+        },
+        "offerpad-Wall.002": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.002",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        -4.7815842628479,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.002.glb"
+            }
+        },
+        "offerpad-Wall.003": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.003",
+            "placements": [
+                {
+                    "position": [
+                        0.027883382514119148,
+                        -4.720391750335693,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.003.glb"
+            }
+        },
+        "offerpad-Wall.004": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.004",
+            "placements": [
+                {
+                    "position": [
+                        -0.8108946681022644,
+                        2.676168918609619,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.004.glb"
+            }
+        },
+        "offerpad-Wall.005": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.005",
+            "placements": [
+                {
+                    "position": [
+                        2.9121124744415283,
+                        3.7753734588623047,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.005.glb"
+            }
+        },
+        "offerpad-Wall.006": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.006",
+            "placements": [
+                {
+                    "position": [
+                        -5.397601127624512,
+                        0.040642473846673965,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.006.glb"
+            }
+        },
+        "offerpad-Wall.007": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.007",
+            "placements": [
+                {
+                    "position": [
+                        0.74619060754776,
+                        3.7753734588623047,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.007.glb"
+            }
+        },
+        "offerpad-Wall.008": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.008",
+            "placements": [
+                {
+                    "position": [
+                        4.359732151031494,
+                        6.178956985473633,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.008.glb"
+            }
+        },
+        "offerpad-Wall.009": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.009",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        -1.0717226266860962,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.009.glb"
+            }
+        },
+        "offerpad-Wall.010": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.010",
+            "placements": [
+                {
+                    "position": [
+                        4.359731197357178,
+                        5.048072814941406,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.010.glb"
+            }
+        },
+        "offerpad-Wall.011": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.011",
+            "placements": [
+                {
+                    "position": [
+                        0.02788413129746914,
+                        -7.230532169342041,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.011.glb"
+            }
+        },
+        "offerpad-Wall.012": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.012",
+            "placements": [
+                {
+                    "position": [
+                        -3.23722243309021,
+                        2.676168918609619,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.012.glb"
+            }
+        },
+        "offerpad-Wall.013": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.013",
+            "placements": [
+                {
+                    "position": [
+                        -2.3984384536743164,
+                        -7.479835033416748,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.013.glb"
+            }
+        },
+        "offerpad-Wall.014": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.014",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        7.652946949005127,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.014.glb"
+            }
+        },
+        "offerpad-Wall.015": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.015",
+            "placements": [
+                {
+                    "position": [
+                        -5.130206108093262,
+                        1.9279251098632812,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.015.glb"
+            }
+        },
+        "offerpad-Wall.016": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.016",
+            "placements": [
+                {
+                    "position": [
+                        2.738982677459717,
+                        -0.568472146987915,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.016.glb"
+            }
+        },
+        "offerpad-Wall.017": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.017",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        1.603450894355774,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.017.glb"
+            }
+        },
+        "offerpad-Wall.018": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.018",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        1.8267967700958252,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.018.glb"
+            }
+        },
+        "offerpad-Wall.019": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.019",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        -1.5752047300338745,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.019.glb"
+            }
+        },
+        "offerpad-Wall.020": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.020",
+            "placements": [
+                {
+                    "position": [
+                        2.2547686100006104,
+                        9.106992721557617,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.020.glb"
+            }
+        },
+        "offerpad-Wall.021": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.021",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        0.20447617769241333,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.021.glb"
+            }
+        },
+        "offerpad-Wall.022": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.022",
+            "placements": [
+                {
+                    "position": [
+                        -0.8363690972328186,
+                        1.801769733428955,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.022.glb"
+            }
+        },
+        "offerpad-Wall.023": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.023",
+            "placements": [
+                {
+                    "position": [
+                        0.5730605721473694,
+                        -0.568472146987915,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.023.glb"
+            }
+        },
+        "offerpad-Wall.024": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.024",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        5.952541828155518,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.024.glb"
+            }
+        },
+        "offerpad-Wall.025": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.025",
+            "placements": [
+                {
+                    "position": [
+                        4.359731197357178,
+                        7.652923107147217,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.025.glb"
+            }
+        },
+        "offerpad-Wall.026": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.026",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        4.987137317657471,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.026.glb"
+            }
+        },
+        "offerpad-Wall.027": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.027",
+            "placements": [
+                {
+                    "position": [
+                        1.118234395980835,
+                        -2.0783114433288574,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.027.glb"
+            }
+        },
+        "offerpad-Wall.028": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.028",
+            "placements": [
+                {
+                    "position": [
+                        1.9354437589645386,
+                        6.19890022277832,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.028.glb"
+            }
+        },
+        "offerpad-Wall.029": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.029",
+            "placements": [
+                {
+                    "position": [
+                        -2.3984410762786865,
+                        -2.5814740657806396,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.029.glb"
+            }
+        },
+        "offerpad-Wall.030": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.030",
+            "placements": [
+                {
+                    "position": [
+                        0.7461003065109253,
+                        6.19890022277832,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.030.glb"
+            }
+        },
+        "offerpad-Wall.031": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.031",
+            "placements": [
+                {
+                    "position": [
+                        3.3831520080566406,
+                        6.198879718780518,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.031.glb"
+            }
+        },
+        "offerpad-Wall.032": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.032",
+            "placements": [
+                {
+                    "position": [
+                        1.4644038677215576,
+                        4.987136363983154,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.032.glb"
+            }
+        },
+        "offerpad-Wall.033": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.033",
+            "placements": [
+                {
+                    "position": [
+                        2.738976001739502,
+                        -2.5817644596099854,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.033.glb"
+            }
+        },
+        "offerpad-Wall.034": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.034",
+            "placements": [
+                {
+                    "position": [
+                        0.5730605721473694,
+                        -2.5815393924713135,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.034.glb"
+            }
+        },
+        "offerpad-Wall.035": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.035",
+            "placements": [
+                {
+                    "position": [
+                        0.027886811643838882,
+                        -2.078223466873169,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.035.glb"
+            }
+        },
+        "offerpad-Wall.036": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.036",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        -4.720391750335693,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.036.glb"
+            }
+        },
+        "offerpad-Wall.037": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.037",
+            "placements": [
+                {
+                    "position": [
+                        0.5730605721473694,
+                        -1.5750021934509277,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.037.glb"
+            }
+        },
+        "offerpad-Wall.038": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.038",
+            "placements": [
+                {
+                    "position": [
+                        2.254765272140503,
+                        -6.859310150146484,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.038.glb"
+            }
+        },
+        "offerpad-Wall.039": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.039",
+            "placements": [
+                {
+                    "position": [
+                        -2.459400177001953,
+                        9.106992721557617,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.039.glb"
+            }
+        },
+        "offerpad-Wall.040": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.040",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        -7.230532169342041,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.040.glb"
+            }
+        },
+        "offerpad-Wall.041": {
+            "category": "walls",
+            "identifier": "offerpad-Wall.041",
+            "placements": [
+                {
+                    "position": [
+                        1.118234395980835,
+                        -1.0717517137527466,
+                        1.5240029096603394
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Wall.041.glb"
+            }
+        },
+        "offerpad-Room": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        -0.8108946681022644,
+                        1.8267967700958252,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.glb"
+            }
+        },
+        "offerpad-Room.001": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        -2.3984410762786865,
+                        5.891581058502197,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.001",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.001.glb"
+            }
+        },
+        "offerpad-Room.002": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        -2.3984410762786865,
+                        -5.030654430389404,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.002",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.002.glb"
+            }
+        },
+        "offerpad-Room.003": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        2.1938095092773438,
+                        7.652924537658691,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.003",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.003.glb"
+            }
+        },
+        "offerpad-Room.004": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        2.738982677459717,
+                        -1.5752047300338745,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.004",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.004.glb"
+            }
+        },
+        "offerpad-Room.005": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        0.5730605721473694,
+                        -2.078282356262207,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.005",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.005.glb"
+            }
+        },
+        "offerpad-Room.006": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        2.1938087940216064,
+                        1.603450894355774,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.006",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.006.glb"
+            }
+        },
+        "offerpad-Room.007": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        2.193805456161499,
+                        -4.720392227172852,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.007",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.007.glb"
+            }
+        },
+        "offerpad-Room.008": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        2.9120230674743652,
+                        4.9871368408203125,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.008",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.008.glb"
+            }
+        },
+        "offerpad-Room.009": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        -2.6848573684692383,
+                        0.04734749346971512,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.009",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.009.glb"
+            }
+        },
+        "offerpad-Room.010": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        0.5730605721473694,
+                        -1.0717518329620361,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.010",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.010.glb"
+            }
+        },
+        "offerpad-Room.011": {
+            "category": "floors",
+            "placements": [
+                {
+                    "position": [
+                        0.74619060754776,
+                        4.9871368408203125,
+                        0.018288036808371544
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "identifier": "offerpad-Room.011",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-Room.011.glb"
+            }
+        },
+        "offerpad-NeoProduct.4A7E62FA-28FB-4BEC-BBF6-1848BC24E2FA": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -5.125173568725586,
+                        -1.803621530532837,
+                        0.7704473733901978
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.4A7E62FA-28FB-4BEC-BBF6-1848BC24E2FA",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.4A7E62FA-28FB-4BEC-BBF6-1848BC24E2FA.glb"
+            }
+        },
+        "offerpad-NeoProduct.1FF13C7D-6CF6-4FA5-9C98-2CD65C9E625D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.2378106117248535,
+                        -4.712305545806885,
+                        0.09332780539989471
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.1FF13C7D-6CF6-4FA5-9C98-2CD65C9E625D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.1FF13C7D-6CF6-4FA5-9C98-2CD65C9E625D.glb"
+            }
+        },
+        "offerpad-NeoProduct.39ED439A-24ED-46D4-A9BE-3B5A56E4E6A5": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        -5.455819129943848,
+                        0.8498605489730835
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.39ED439A-24ED-46D4-A9BE-3B5A56E4E6A5",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.39ED439A-24ED-46D4-A9BE-3B5A56E4E6A5.glb"
+            }
+        },
+        "offerpad-NeoProduct.F0010E7F-A76E-4FE7-980D-5E74074C7597": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        -3.8457484245300293,
+                        0.8555682301521301
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.F0010E7F-A76E-4FE7-980D-5E74074C7597",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.F0010E7F-A76E-4FE7-980D-5E74074C7597.glb"
+            }
+        },
+        "offerpad-NeoProduct.48497D38-BA47-483B-AFAB-329401C8EAAE": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.027881169691681862,
+                        -6.200446128845215,
+                        0.024018287658691406
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.48497D38-BA47-483B-AFAB-329401C8EAAE",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.48497D38-BA47-483B-AFAB-329401C8EAAE.glb"
+            }
+        },
+        "offerpad-NeoProduct.CB56FEF5-C46D-4B5A-81C7-BA0F5E9A1A7A": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.09403673559427261,
+                        -4.699321746826172,
+                        1.3140782117843628
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.CB56FEF5-C46D-4B5A-81C7-BA0F5E9A1A7A",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.CB56FEF5-C46D-4B5A-81C7-BA0F5E9A1A7A.glb"
+            }
+        },
+        "offerpad-NeoProduct.B06CA6B7-1389-470D-B9B2-1CA709CED9AF": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.5998085737228394,
+                        2.7980892658233643,
+                        1.9464750289916992
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B06CA6B7-1389-470D-B9B2-1CA709CED9AF",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B06CA6B7-1389-470D-B9B2-1CA709CED9AF.glb"
+            }
+        },
+        "offerpad-NeoProduct.1720131D-9643-437E-A595-1A9033B51774": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.5612165927886963,
+                        3.775373697280884,
+                        0.024384047836065292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.1720131D-9643-437E-A595-1A9033B51774",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.1720131D-9643-437E-A595-1A9033B51774.glb"
+            }
+        },
+        "offerpad-NeoProduct.22D8FA04-CCD5-42C6-820C-3CE383AEEF64": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.7728791236877441,
+                        3.8972933292388916,
+                        0.5040526390075684
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.22D8FA04-CCD5-42C6-820C-3CE383AEEF64",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.22D8FA04-CCD5-42C6-820C-3CE383AEEF64.glb"
+            }
+        },
+        "offerpad-NeoProduct.3381F00E-8A7C-41FE-9A25-DF1D9D9CFCAC": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.7236584424972534,
+                        3.6534528732299805,
+                        1.0394684076309204
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3381F00E-8A7C-41FE-9A25-DF1D9D9CFCAC",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3381F00E-8A7C-41FE-9A25-DF1D9D9CFCAC.glb"
+            }
+        },
+        "offerpad-NeoProduct.66CB7AF6-9D43-4C12-BBAA-FBD91BD59D45": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.8091750144958496,
+                        3.8972933292388916,
+                        0.6567689180374146
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.66CB7AF6-9D43-4C12-BBAA-FBD91BD59D45",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.66CB7AF6-9D43-4C12-BBAA-FBD91BD59D45.glb"
+            }
+        },
+        "offerpad-NeoProduct.FC5055B6-1A89-48EF-8F2A-9E7E7A5833AC": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -5.39760160446167,
+                        0.03946257755160332,
+                        0.8053735494613647
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.FC5055B6-1A89-48EF-8F2A-9E7E7A5833AC",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.FC5055B6-1A89-48EF-8F2A-9E7E7A5833AC.glb"
+            }
+        },
+        "offerpad-NeoProduct.BB3535B5-91F0-4B25-9539-9F1A11FA3037": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.09403342753648758,
+                        -0.7754643559455872,
+                        0.017921093851327896
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.BB3535B5-91F0-4B25-9539-9F1A11FA3037",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.BB3535B5-91F0-4B25-9539-9F1A11FA3037.glb"
+            }
+        },
+        "offerpad-NeoProduct.48A4FD52-ECA0-457B-9A46-6A64C55BC5FC": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.237810134887695,
+                        4.468810558319092,
+                        1.8089988231658936
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.48A4FD52-ECA0-457B-9A46-6A64C55BC5FC",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.48A4FD52-ECA0-457B-9A46-6A64C55BC5FC.glb"
+            }
+        },
+        "offerpad-NeoProduct.AB64784E-D6FB-4940-BFE5-6FEE0BADA62B": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.2378106117248535,
+                        5.290395259857178,
+                        1.804358959197998
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.AB64784E-D6FB-4940-BFE5-6FEE0BADA62B",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.AB64784E-D6FB-4940-BFE5-6FEE0BADA62B.glb"
+            }
+        },
+        "offerpad-NeoProduct.2784B34F-D018-4DDE-9DE0-27BFA6063D32": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.019536256790161,
+                        2.7980892658233643,
+                        1.3114581108093262
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2784B34F-D018-4DDE-9DE0-27BFA6063D32",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2784B34F-D018-4DDE-9DE0-27BFA6063D32.glb"
+            }
+        },
+        "offerpad-NeoProduct.2A7405F5-C615-4ADD-9918-506541481A99": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.4848413467407227,
+                        2.5768954753875732,
+                        1.4275981187820435
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2A7405F5-C615-4ADD-9918-506541481A99",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2A7405F5-C615-4ADD-9918-506541481A99.glb",
+                "id": "offerpad-NeoProduct.2A7405F5-C615-4ADD-9918-506541481A99",
+                "name": "36\" Double Ribbed Frame Mirror",
+                "price": 156,
+                "mrp": 447,
+                "image_url": "https://walkeredison.com/cdn/shop/products/RM36MIBL_RS07_Amazon_LS_02.jpg?v=1657552207"
+            }
+        },
+        "offerpad-NeoProduct.B05A73EF-C3B5-469B-8823-CDF0F1261613": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.88653826713562,
+                        2.7980892658233643,
+                        1.9533542394638062
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B05A73EF-C3B5-469B-8823-CDF0F1261613",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B05A73EF-C3B5-469B-8823-CDF0F1261613.glb"
+            }
+        },
+        "offerpad-NeoProduct.B8FF5292-7F1B-4533-93B5-D62BE047FDE8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.1805145740509033,
+                        2.7980892658233643,
+                        1.9582716226577759
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B8FF5292-7F1B-4533-93B5-D62BE047FDE8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B8FF5292-7F1B-4533-93B5-D62BE047FDE8.glb"
+            }
+        },
+        "offerpad-NeoProduct.E0620284-3AAE-4CC9-B236-0474A94042E8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.45428729057312,
+                        2.5768954753875732,
+                        0.35293373465538025
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.E0620284-3AAE-4CC9-B236-0474A94042E8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.E0620284-3AAE-4CC9-B236-0474A94042E8.glb",
+                "id": "offerpad-NeoProduct.E0620284-3AAE-4CC9-B236-0474A94042E8",
+                "name": "36\" Double Ribbed Frame Mirror",
+                "price": 156,
+                "mrp": 447,
+                "image_url": "https://walkeredison.com/cdn/shop/products/RM36MIBL_RS07_Amazon_LS_02.jpg?v=1657552207"
+            }
+        },
+        "offerpad-NeoProduct.417CCE92-3E31-47F7-A78E-1816D9ADC10D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.1505017280578613,
+                        -7.479835033416748,
+                        0.024384109303355217
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.417CCE92-3E31-47F7-A78E-1816D9ADC10D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.417CCE92-3E31-47F7-A78E-1816D9ADC10D.glb"
+            }
+        },
+        "offerpad-NeoProduct.8C465A2F-570B-4C84-BABA-4DF6813775B2": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.6770970821380615,
+                        -7.479835033416748,
+                        0.7699717283248901
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.8C465A2F-570B-4C84-BABA-4DF6813775B2",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.8C465A2F-570B-4C84-BABA-4DF6813775B2.glb"
+            }
+        },
+        "offerpad-NeoProduct.F34D0AD9-A29A-45DE-B485-3FBDC54D9880": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.6790709495544434,
+                        -7.357914924621582,
+                        2.085280656814575
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.F34D0AD9-A29A-45DE-B485-3FBDC54D9880",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.F34D0AD9-A29A-45DE-B485-3FBDC54D9880.glb"
+            }
+        },
+        "offerpad-NeoProduct.97C27B09-3C6D-4798-A7BB-2A65FCAF2F03": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.027886807918548584,
+                        8.325230598449707,
+                        0.024384070187807083
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.97C27B09-3C6D-4798-A7BB-2A65FCAF2F03",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.97C27B09-3C6D-4798-A7BB-2A65FCAF2F03.glb"
+            }
+        },
+        "offerpad-NeoProduct.B32AB2CC-09BE-471F-98A8-00FF0DB641E7": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -5.131518363952637,
+                        1.8748059272766113,
+                        0.7753375768661499
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B32AB2CC-09BE-471F-98A8-00FF0DB641E7",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B32AB2CC-09BE-471F-98A8-00FF0DB641E7.glb"
+            }
+        },
+        "offerpad-NeoProduct.1E49555B-8EE8-49A4-8BAD-E07A775CCFE2": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.3088905811309814,
+                        -0.4465519189834595,
+                        1.2290185689926147
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.1E49555B-8EE8-49A4-8BAD-E07A775CCFE2",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.1E49555B-8EE8-49A4-8BAD-E07A775CCFE2.glb"
+            }
+        },
+        "offerpad-NeoProduct.2376E698-80B9-436C-8C2C-4680D7EF4DB5": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.0398173332214355,
+                        -0.6903924345970154,
+                        0.8527372479438782
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2376E698-80B9-436C-8C2C-4680D7EF4DB5",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2376E698-80B9-436C-8C2C-4680D7EF4DB5.glb"
+            }
+        },
+        "offerpad-NeoProduct.E685D4CB-CD65-438A-94C9-96EBD86E650D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.0155491828918457,
+                        -0.6903924345970154,
+                        2.379647731781006
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.E685D4CB-CD65-438A-94C9-96EBD86E650D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.E685D4CB-CD65-438A-94C9-96EBD86E650D.glb"
+            }
+        },
+        "offerpad-NeoProduct.51675F8F-2AA6-46BD-8416-9F106467531F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        0.7016704082489014,
+                        0.7305207848548889
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.51675F8F-2AA6-46BD-8416-9F106467531F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.51675F8F-2AA6-46BD-8416-9F106467531F.glb"
+            }
+        },
+        "offerpad-NeoProduct.BE4A42F1-42A2-4033-8E74-42A5773E0DAA": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.2378106117248535,
+                        1.6285799741744995,
+                        0.024418503046035767
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.BE4A42F1-42A2-4033-8E74-42A5773E0DAA",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.BE4A42F1-42A2-4033-8E74-42A5773E0DAA.glb"
+            }
+        },
+        "offerpad-NeoProduct.DF690225-496B-432A-86F2-854CCCF1E980": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        2.3958301544189453,
+                        0.746038556098938
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.DF690225-496B-432A-86F2-854CCCF1E980",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.DF690225-496B-432A-86F2-854CCCF1E980.glb"
+            }
+        },
+        "offerpad-NeoProduct.C1EBF977-49FD-47CB-A617-294F80022CC4": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.14980705082416534,
+                        1.786178469657898,
+                        0.024414528161287308
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.C1EBF977-49FD-47CB-A617-294F80022CC4",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.C1EBF977-49FD-47CB-A617-294F80022CC4.glb"
+            }
+        },
+        "offerpad-NeoProduct.34D23180-C1D9-46F2-A21E-1E436896D785": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.3597307205200195,
+                        -1.5742770433425903,
+                        0.31357401609420776
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.34D23180-C1D9-46F2-A21E-1E436896D785",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.34D23180-C1D9-46F2-A21E-1E436896D785.glb"
+            }
+        },
+        "offerpad-NeoProduct.378CA25B-6352-4353-B5B7-C6B2BD7BB83F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.632774829864502,
+                        8.98507308959961,
+                        1.4256654977798462
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.378CA25B-6352-4353-B5B7-C6B2BD7BB83F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.378CA25B-6352-4353-B5B7-C6B2BD7BB83F.glb"
+            }
+        },
+        "offerpad-NeoProduct.7282158E-3903-495B-8A35-A35065C04C38": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.1911110877990723,
+                        9.106993675231934,
+                        0.6143797039985657
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.7282158E-3903-495B-8A35-A35065C04C38",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.7282158E-3903-495B-8A35-A35065C04C38.glb"
+            }
+        },
+        "offerpad-NeoProduct.6B701AA3-F35E-4BCE-B404-D908AA5CEF03": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.027886807918548584,
+                        0.12609542906284332,
+                        0.02447548881173134
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.6B701AA3-F35E-4BCE-B404-D908AA5CEF03",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.6B701AA3-F35E-4BCE-B404-D908AA5CEF03.glb"
+            }
+        },
+        "offerpad-NeoProduct.6CA86FAF-AEC1-4D4E-B1F1-D3588D947051": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.5977218151092529,
+                        -0.568472146987915,
+                        0.024384047836065292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.6CA86FAF-AEC1-4D4E-B1F1-D3588D947051",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.6CA86FAF-AEC1-4D4E-B1F1-D3588D947051.glb"
+            }
+        },
+        "offerpad-NeoProduct.61DC5414-51C3-45C1-816E-D6D5F2F4DF6D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        3.9781858921051025,
+                        0.7853360772132874
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.61DC5414-51C3-45C1-816E-D6D5F2F4DF6D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.61DC5414-51C3-45C1-816E-D6D5F2F4DF6D.glb"
+            }
+        },
+        "offerpad-NeoProduct.83FA2926-8FF1-4FCC-B10C-48F3D3E0DD56": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        7.669027328491211,
+                        0.8276771903038025
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.83FA2926-8FF1-4FCC-B10C-48F3D3E0DD56",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.83FA2926-8FF1-4FCC-B10C-48F3D3E0DD56.glb"
+            }
+        },
+        "offerpad-NeoProduct.435C739D-5878-4687-87B4-791938BC2D82": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.237811088562012,
+                        7.668588638305664,
+                        0.7186845541000366
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.435C739D-5878-4687-87B4-791938BC2D82",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.435C739D-5878-4687-87B4-791938BC2D82.glb"
+            }
+        },
+        "offerpad-NeoProduct.B9C34A3E-090C-4D42-8872-69185B825D74": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.23781156539917,
+                        6.914579391479492,
+                        0.7229724526405334
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B9C34A3E-090C-4D42-8872-69185B825D74",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B9C34A3E-090C-4D42-8872-69185B825D74.glb"
+            }
+        },
+        "offerpad-NeoProduct.8A961F24-268D-4979-8D2F-4DFAE17D5272": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.7946422100067139,
+                        6.0769805908203125,
+                        1.3963721990585327
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.8A961F24-268D-4979-8D2F-4DFAE17D5272",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.8A961F24-268D-4979-8D2F-4DFAE17D5272.glb"
+            }
+        },
+        "offerpad-NeoProduct.EC2D4532-C375-4D3D-83E2-EE6E2197A3C2": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.3039004802703857,
+                        6.076981067657471,
+                        1.172407865524292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.EC2D4532-C375-4D3D-83E2-EE6E2197A3C2",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.EC2D4532-C375-4D3D-83E2-EE6E2197A3C2.glb"
+            }
+        },
+        "offerpad-NeoProduct.B37ED522-CC57-40C7-BCDB-125B689224A8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.5730843544006348,
+                        -2.5814740657806396,
+                        0.024384047836065292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B37ED522-CC57-40C7-BCDB-125B689224A8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B37ED522-CC57-40C7-BCDB-125B689224A8.glb"
+            }
+        },
+        "offerpad-NeoProduct.0AC79ACA-14A6-433D-BC43-97298C866252": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.8183942437171936,
+                        6.0769805908203125,
+                        1.276388168334961
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.0AC79ACA-14A6-433D-BC43-97298C866252",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.0AC79ACA-14A6-433D-BC43-97298C866252.glb"
+            }
+        },
+        "offerpad-NeoProduct.3B50900B-97F0-4510-828D-50DA76DD5E71": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.819766044616699,
+                        6.076971054077148,
+                        1.357722282409668
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3B50900B-97F0-4510-828D-50DA76DD5E71",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3B50900B-97F0-4510-828D-50DA76DD5E71.glb"
+            }
+        },
+        "offerpad-NeoProduct.A76CD12F-E5EA-4E98-8964-6E927C685234": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.5438232421875,
+                        6.1988749504089355,
+                        0.024384047836065292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.A76CD12F-E5EA-4E98-8964-6E927C685234",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.A76CD12F-E5EA-4E98-8964-6E927C685234.glb"
+            }
+        },
+        "offerpad-NeoProduct.6B4DF9B2-A770-4342-ADDE-2CE60B820BA2": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.4643714427947998,
+                        5.423778057098389,
+                        0.024076972156763077
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.6B4DF9B2-A770-4342-ADDE-2CE60B820BA2",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.6B4DF9B2-A770-4342-ADDE-2CE60B820BA2.glb"
+            }
+        },
+        "offerpad-NeoProduct.4B03D863-CA05-4918-BAB7-68F4695D4385": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.0004379749298096,
+                        -2.5816855430603027,
+                        0.02438405342400074
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.4B03D863-CA05-4918-BAB7-68F4695D4385",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.4B03D863-CA05-4918-BAB7-68F4695D4385.glb"
+            }
+        },
+        "offerpad-NeoProduct.C5083C65-F8A2-4800-8A19-C8E02E5603F7": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.7980761528015137,
+                        -2.4599573612213135,
+                        0.9196910858154297
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.C5083C65-F8A2-4800-8A19-C8E02E5603F7",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.C5083C65-F8A2-4800-8A19-C8E02E5603F7.glb"
+            }
+        },
+        "offerpad-NeoProduct.2113A37C-A8EA-498B-9E86-5DD80C85C9D5": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.528473436832428,
+                        -2.5815279483795166,
+                        0.024380631744861603
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2113A37C-A8EA-498B-9E86-5DD80C85C9D5",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2113A37C-A8EA-498B-9E86-5DD80C85C9D5.glb"
+            }
+        },
+        "offerpad-NeoProduct.3722683A-2F32-4FF3-ABEF-EA5C3EDD1830": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.702848434448242,
+                        -5.876831531524658,
+                        2.092505693435669
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3722683A-2F32-4FF3-ABEF-EA5C3EDD1830",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3722683A-2F32-4FF3-ABEF-EA5C3EDD1830.glb"
+            }
+        },
+        "offerpad-NeoProduct.9D94EBC6-EA36-425E-B78E-0E84696DFD6F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.702848434448242,
+                        -3.945223331451416,
+                        2.086451530456543
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.9D94EBC6-EA36-425E-B78E-0E84696DFD6F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.9D94EBC6-EA36-425E-B78E-0E84696DFD6F.glb"
+            }
+        },
+        "offerpad-NeoProduct.B4320738-99FD-40E8-8E04-77D78526757D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        -3.9438138008117676,
+                        0.768905520439148
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B4320738-99FD-40E8-8E04-77D78526757D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B4320738-99FD-40E8-8E04-77D78526757D.glb"
+            }
+        },
+        "offerpad-NeoProduct.E3696ABA-8F14-4B55-973F-5F646B75B187": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.824768543243408,
+                        -5.892369270324707,
+                        0.772246778011322
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.E3696ABA-8F14-4B55-973F-5F646B75B187",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.E3696ABA-8F14-4B55-973F-5F646B75B187.glb"
+            }
+        },
+        "offerpad-NeoProduct.96D6FDD7-4058-449B-A96B-DCD9E40546B0": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.880722165107727,
+                        -6.859310150146484,
+                        0.729396641254425
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.96D6FDD7-4058-449B-A96B-DCD9E40546B0",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.96D6FDD7-4058-449B-A96B-DCD9E40546B0.glb"
+            }
+        },
+        "offerpad-NeoProduct.705F747E-1968-4A0B-BFC8-DA6A304969F9": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.5909056663513184,
+                        9.106993675231934,
+                        0.8369902968406677
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.705F747E-1968-4A0B-BFC8-DA6A304969F9",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.705F747E-1968-4A0B-BFC8-DA6A304969F9.glb"
+            }
+        },
+        "offerpad-NeoProduct.DE602210-1E33-4A08-883A-DF1CE98C2661": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.8767523765563965,
+                        9.106993675231934,
+                        0.0243840329349041
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.DE602210-1E33-4A08-883A-DF1CE98C2661",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.DE602210-1E33-4A08-883A-DF1CE98C2661.glb"
+            }
+        },
+        "offerpad-NeoProduct.0127EEC8-B41E-4AB1-A196-0369AE4B260F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.75736403465271,
+                        -3.4776716232299805,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.0127EEC8-B41E-4AB1-A196-0369AE4B260F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.0127EEC8-B41E-4AB1-A196-0369AE4B260F.glb",
+                "id": "offerpad-NeoProduct.0127EEC8-B41E-4AB1-A196-0369AE4B260F",
+                "name": "Walker Edison | Minimalist Floor Lamp",
+                "price": 108,
+                "mrp": 208,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_-_Floor_Lamp_w_2pcs_Glass_Lamp_Shade_Modern_Portable_Decorative_Lamp_White.jpg?v=1729282540"
+            }
+        },
+        "offerpad-NeoProduct.05CA10BA-BDE2-4C9E-9B84-DC29B899996B": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.267733335494995,
+                        7.997917175292969,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.05CA10BA-BDE2-4C9E-9B84-DC29B899996B",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.05CA10BA-BDE2-4C9E-9B84-DC29B899996B.glb"
+            }
+        },
+        "offerpad-NeoProduct.79B9AB36-310F-44B3-8F3D-84620F2A1AD9": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.649237632751465,
+                        -0.19002945721149445,
+                        0.6912093758583069
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.79B9AB36-310F-44B3-8F3D-84620F2A1AD9",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.79B9AB36-310F-44B3-8F3D-84620F2A1AD9.glb",
+                "id": "offerpad-NeoProduct.79B9AB36-310F-44B3-8F3D-84620F2A1AD9",
+                "name": "Walker Edison | Modern Linen Table Lamp",
+                "price": 74,
+                "mrp": 122,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_22_H_Modern_Upright_Beige_Linen_Drum_Black_Metal_Table_Lamp_for_Living_Room_Nightstand_Bedside_Table_Lamp_for_Bedroom_LED_Lamp.jpg?v=1728335327"
+            }
+        },
+        "offerpad-NeoProduct.1B050AF2-4B92-4DD7-A854-B651F38F9C7F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.9441208839416504,
+                        3.1069960594177246,
+                        0.9803318977355957
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.1B050AF2-4B92-4DD7-A854-B651F38F9C7F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.1B050AF2-4B92-4DD7-A854-B651F38F9C7F.glb"
+            }
+        },
+        "offerpad-NeoProduct.2A21B33D-EF58-45D6-9515-950183CDA616": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.08846116065979,
+                        -1.2328230142593384,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2A21B33D-EF58-45D6-9515-950183CDA616",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2A21B33D-EF58-45D6-9515-950183CDA616.glb"
+            }
+        },
+        "offerpad-NeoProduct.1F0B1E84-A597-4D50-A421-4066D3657BDC": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.991612434387207,
+                        -0.23162543773651123,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.1F0B1E84-A597-4D50-A421-4066D3657BDC",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.1F0B1E84-A597-4D50-A421-4066D3657BDC.glb",
+                "id": "offerpad-NeoProduct.1F0B1E84-A597-4D50-A421-4066D3657BDC",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.04C7E029-058F-4095-9ACD-DD516F338973": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.135858239789826,
+                        0.945505479868581,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        -1.1657821473281205
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.04C7E029-058F-4095-9ACD-DD516F338973",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.04C7E029-058F-4095-9ACD-DD516F338973.glb",
+                "id": "offerpad-NeoProduct.04C7E029-058F-4095-9ACD-DD516F338973",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.ED059248-17B3-4C6E-A02D-7FD64F27291F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.3270623647879,
+                        1.6718131270740386,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.ED059248-17B3-4C6E-A02D-7FD64F27291F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.ED059248-17B3-4C6E-A02D-7FD64F27291F.glb",
+                "id": "offerpad-NeoProduct.ED059248-17B3-4C6E-A02D-7FD64F27291F",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.76FF03A9-9155-44C2-B2F0-0632A4E15722": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.701059103012085,
+                        -0.28454500436782837,
+                        0.7982382774353027
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.76FF03A9-9155-44C2-B2F0-0632A4E15722",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.76FF03A9-9155-44C2-B2F0-0632A4E15722.glb"
+            }
+        },
+        "offerpad-NeoProduct.8512CC53-1938-4BD6-BA10-B8F8A16E7E7F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.4215176105499268,
+                        -0.3208729326725006,
+                        0.7982382774353027
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.8512CC53-1938-4BD6-BA10-B8F8A16E7E7F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.8512CC53-1938-4BD6-BA10-B8F8A16E7E7F.glb"
+            }
+        },
+        "offerpad-NeoProduct.D7D60A81-C3B8-4C98-B0D2-EC0127679B0A": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.960080623626709,
+                        -0.3501049876213074,
+                        0.7982382774353027
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D7D60A81-C3B8-4C98-B0D2-EC0127679B0A",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D7D60A81-C3B8-4C98-B0D2-EC0127679B0A.glb"
+            }
+        },
+        "offerpad-NeoProduct.31EA0DB3-59DE-4697-AEF5-6DF383463D25": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.206979751586914,
+                        -1.0214406251907349,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.31EA0DB3-59DE-4697-AEF5-6DF383463D25",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.31EA0DB3-59DE-4697-AEF5-6DF383463D25.glb",
+                "id": "offerpad-NeoProduct.31EA0DB3-59DE-4697-AEF5-6DF383463D25",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.3C1C35B5-6294-496C-B994-F8A47E90ADF7": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.055713653564453,
+                        -0.9912422299385071,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3C1C35B5-6294-496C-B994-F8A47E90ADF7",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3C1C35B5-6294-496C-B994-F8A47E90ADF7.glb",
+                "id": "offerpad-NeoProduct.3C1C35B5-6294-496C-B994-F8A47E90ADF7",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.8C15EBF6-1C6D-4717-B620-35DA2A4CFFD8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.2846375703811646,
+                        -0.255304753780365,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.8C15EBF6-1C6D-4717-B620-35DA2A4CFFD8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.8C15EBF6-1C6D-4717-B620-35DA2A4CFFD8.glb",
+                "id": "offerpad-NeoProduct.8C15EBF6-1C6D-4717-B620-35DA2A4CFFD8",
+                "name": "Ezra Modern Boucle Solid Wood Rounded Back Dining Chair (Set of 2)",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/88b79a19f26c815a85c624444fca645227f22129.jpg?v=1721343945"
+            }
+        },
+        "offerpad-NeoProduct.DEA344FD-B87B-41AC-8A90-3114C9DC4FDD": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.4250370264053345,
+                        -0.26874977350234985,
+                        0.6912093758583069
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.DEA344FD-B87B-41AC-8A90-3114C9DC4FDD",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.DEA344FD-B87B-41AC-8A90-3114C9DC4FDD.glb",
+                "id": "offerpad-NeoProduct.DEA344FD-B87B-41AC-8A90-3114C9DC4FDD",
+                "name": "Walker Edison | Modern Linen Table Lamp",
+                "price": 74,
+                "mrp": 122,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_22_H_Modern_Upright_Beige_Linen_Drum_Black_Metal_Table_Lamp_for_Living_Room_Nightstand_Bedside_Table_Lamp_for_Bedroom_LED_Lamp.jpg?v=1728335327"
+            }
+        },
+        "offerpad-NeoProduct.3A55F69B-EC4A-49AB-BDF1-21AFEE1724F3": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.29077818989753723,
+                        -4.743621349334717,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3A55F69B-EC4A-49AB-BDF1-21AFEE1724F3",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3A55F69B-EC4A-49AB-BDF1-21AFEE1724F3.glb"
+            }
+        },
+        "offerpad-NeoProduct.40DA069B-56B3-46F6-8666-FC2E4999B97C": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.577254056930542,
+                        7.339822292327881,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.40DA069B-56B3-46F6-8666-FC2E4999B97C",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.40DA069B-56B3-46F6-8666-FC2E4999B97C.glb",
+                "id": "offerpad-NeoProduct.40DA069B-56B3-46F6-8666-FC2E4999B97C",
+                "name": "Walker Edison | Mesh Fabric Home Office 360°Swivel Chair with Gold Metal Base",
+                "price": 143,
+                "mrp": 254,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_-_Mesh_Fabric_Home_Office_360_Swivel_Chair_Adjustable_Height_With_Gold_Metal_Base_Beige.jpg?v=1726518972"
+            }
+        },
+        "offerpad-NeoProduct.79F1A8B7-75EB-4819-9F88-05BEFA916B5A": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.99699068069458,
+                        -6.143444538116455,
+                        0.7910424470901489
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.79F1A8B7-75EB-4819-9F88-05BEFA916B5A",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.79F1A8B7-75EB-4819-9F88-05BEFA916B5A.glb",
+                "id": "offerpad-NeoProduct.79F1A8B7-75EB-4819-9F88-05BEFA916B5A",
+                "name": "Walker Edison | Modern Linen Table Lamp",
+                "price": 74,
+                "mrp": 122,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_22_H_Modern_Upright_Beige_Linen_Drum_Black_Metal_Table_Lamp_for_Living_Room_Nightstand_Bedside_Table_Lamp_for_Bedroom_LED_Lamp.jpg?v=1728335327"
+            }
+        },
+        "offerpad-NeoProduct.50643D06-DF11-48FF-A5A9-2B2A309B0F4D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.173407077789307,
+                        -7.036776542663574,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.50643D06-DF11-48FF-A5A9-2B2A309B0F4D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.50643D06-DF11-48FF-A5A9-2B2A309B0F4D.glb"
+            }
+        },
+        "offerpad-NeoProduct.0BDC1784-50EF-42CB-9A4E-D94249E87DAD": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.050872564315796,
+                        -0.8632649779319763,
+                        0.8217830657958984
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.0BDC1784-50EF-42CB-9A4E-D94249E87DAD",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.0BDC1784-50EF-42CB-9A4E-D94249E87DAD.glb"
+            }
+        },
+        "offerpad-NeoProduct.B8382A49-93C7-49DD-A508-10C7542F07B0": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.084296941757202,
+                        -1.0747753381729126,
+                        0.8217830657958984
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B8382A49-93C7-49DD-A508-10C7542F07B0",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B8382A49-93C7-49DD-A508-10C7542F07B0.glb"
+            }
+        },
+        "offerpad-NeoProduct.57D1315C-371C-454D-AEC2-FD66852946E8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.5506771802902222,
+                        2.259918689727783,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.57D1315C-371C-454D-AEC2-FD66852946E8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.57D1315C-371C-454D-AEC2-FD66852946E8.glb",
+                "id": "offerpad-NeoProduct.57D1315C-371C-454D-AEC2-FD66852946E8",
+                "name": "Modern 48 Round Solid Wood Dining Table",
+                "price": 304,
+                "mrp": 615,
+                "image_url": "https://walkeredison.com/cdn/shop/files/HAMD1DBRWS_ALL_US_LS_02.jpg?v=1697152367"
+            }
+        },
+        "offerpad-NeoProduct.60069523-EE03-4BA0-AD0F-317418321ED8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.014256715774536,
+                        -4.731832981109619,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.60069523-EE03-4BA0-AD0F-317418321ED8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.60069523-EE03-4BA0-AD0F-317418321ED8.glb",
+                "id": "offerpad-NeoProduct.60069523-EE03-4BA0-AD0F-317418321ED8",
+                "name": "Walker Edison | Pelican Canopy Platform Bed",
+                "price": 516,
+                "mrp": 670,
+                "image_url": "https://walkeredison.com/cdn/shop/files/ISLB5CNP_900x.jpg?v=1736876234"
+            }
+        },
+        "offerpad-NeoProduct.64B1678F-D4BB-4007-A0EF-5538EA5169CA": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.25913989543914795,
+                        -3.392896890640259,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.64B1678F-D4BB-4007-A0EF-5538EA5169CA",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.64B1678F-D4BB-4007-A0EF-5538EA5169CA.glb",
+                "id": "offerpad-NeoProduct.64B1678F-D4BB-4007-A0EF-5538EA5169CA",
+                "name": "Chantelle Modern Arched Bookshelf with Open Shelves",
+                "price": 395,
+                "mrp": 577,
+                "image_url": "https://walkeredison.com/cdn/shop/files/9d23dc9bbed897af80188be924f135b222ce27ce.jpg?v=1715292684"
+            }
+        },
+        "offerpad-NeoProduct.FFCCB63D-6D69-428A-A447-E8653E3E28F0": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.062922477722168,
+                        4.996389389038086,
+                        0.03657607361674309
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.FFCCB63D-6D69-428A-A447-E8653E3E28F0",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.FFCCB63D-6D69-428A-A447-E8653E3E28F0.glb"
+            }
+        },
+        "offerpad-NeoProduct.4F615A91-8266-4C7A-8E5D-CD2C479A3F72": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.458570957183838,
+                        -4.214157581329346,
+                        0.43908873200416565
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.4F615A91-8266-4C7A-8E5D-CD2C479A3F72",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.4F615A91-8266-4C7A-8E5D-CD2C479A3F72.glb"
+            }
+        },
+        "offerpad-NeoProduct.F990D1F5-73DC-4DC8-8242-5A1C4ED52F73": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.5913171768188477,
+                        1.1570745706558228,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.F990D1F5-73DC-4DC8-8242-5A1C4ED52F73",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.F990D1F5-73DC-4DC8-8242-5A1C4ED52F73.glb"
+            }
+        },
+        "offerpad-NeoProduct.565BBE6C-0CEF-4106-9065-00E228957C70": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.297025442123413,
+                        5.951047420501709,
+                        0.9697839617729187
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.565BBE6C-0CEF-4106-9065-00E228957C70",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.565BBE6C-0CEF-4106-9065-00E228957C70.glb"
+            }
+        },
+        "offerpad-NeoProduct.73B799C6-7381-44FB-A586-D10F5008CEDC": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -5.072013854980469,
+                        -0.4761030972003937,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.73B799C6-7381-44FB-A586-D10F5008CEDC",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.73B799C6-7381-44FB-A586-D10F5008CEDC.glb",
+                "id": "offerpad-NeoProduct.73B799C6-7381-44FB-A586-D10F5008CEDC",
+                "name": "Chantelle 64\" Modern Curved Buffet Sideboard & TV Stand",
+                "price": 400,
+                "mrp": 615,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Modern_Curved_TV_Stand_Sideboard_sleek_and_scandivanian_style.jpg?v=1736878778"
+            }
+        },
+        "offerpad-NeoProduct.792A2400-D5A9-4B53-B249-51CA2F2E4F81": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.9574864506721497,
+                        1.5594068765640259,
+                        0.030445614829659462
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.792A2400-D5A9-4B53-B249-51CA2F2E4F81",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.792A2400-D5A9-4B53-B249-51CA2F2E4F81.glb"
+            }
+        },
+        "offerpad-NeoProduct.826A64BF-E8E3-4B1B-B9DA-9BF997EC2CAE": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.9271206855773926,
+                        8.63742446899414,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.826A64BF-E8E3-4B1B-B9DA-9BF997EC2CAE",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.826A64BF-E8E3-4B1B-B9DA-9BF997EC2CAE.glb"
+            }
+        },
+        "offerpad-NeoProduct.90CB6217-B084-45D1-ADEB-1A50F70D837D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.7840494513511658,
+                        -1.8248497247695923,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.90CB6217-B084-45D1-ADEB-1A50F70D837D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.90CB6217-B084-45D1-ADEB-1A50F70D837D.glb"
+            }
+        },
+        "offerpad-NeoProduct.913B9AB9-4209-45B6-9DCC-9F61AF42678F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.517268180847168,
+                        7.5510382652282715,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.913B9AB9-4209-45B6-9DCC-9F61AF42678F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.913B9AB9-4209-45B6-9DCC-9F61AF42678F.glb",
+                "id": "offerpad-NeoProduct.913B9AB9-4209-45B6-9DCC-9F61AF42678F",
+                "name": "Walker Edison | Stylish Wood Round Side/End Table",
+                "price": 351,
+                "mrp": 614,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_Wood_Round_Pedestal_Side_End_Table_Stylish_Living_Room_Accent_Table_Dark_Brown.jpg?v=1729196647"
+            }
+        },
+        "offerpad-NeoProduct.114CB207-69AE-43AD-8A82-50EFEECE6435": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.6595770120620728,
+                        6.806619167327881,
+                        0.7931889295578003
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.114CB207-69AE-43AD-8A82-50EFEECE6435",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.114CB207-69AE-43AD-8A82-50EFEECE6435.glb"
+            }
+        },
+        "offerpad-NeoProduct.05E7837C-4D9F-4EB0-B0A5-6B74D91C66A9": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.5949212312698364,
+                        -4.743584632873535,
+                        0.04267208278179169
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.05E7837C-4D9F-4EB0-B0A5-6B74D91C66A9",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.05E7837C-4D9F-4EB0-B0A5-6B74D91C66A9.glb",
+                "id": "offerpad-NeoProduct.05E7837C-4D9F-4EB0-B0A5-6B74D91C66A9",
+                "name": "Walker Edison Spindle 47\" Low Back Bench",
+                "price": 209,
+                "mrp": 321,
+                "image_url": "https://walkeredison.com/cdn/shop/products/9b34e4b26cd84743bc0b2d78e11271cf8bc94ed6.jpg?v=1667433403"
+            }
+        },
+        "offerpad-NeoProduct.864B0D61-965A-4233-9C2B-99FC6958E3FA": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.88529896736145,
+                        -3.318875789642334,
+                        0.7910424470901489
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.864B0D61-965A-4233-9C2B-99FC6958E3FA",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.864B0D61-965A-4233-9C2B-99FC6958E3FA.glb",
+                "id": "offerpad-NeoProduct.864B0D61-965A-4233-9C2B-99FC6958E3FA",
+                "name": "Walker Edison | Modern Linen Table Lamp",
+                "price": 74,
+                "mrp": 122,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_22_H_Modern_Upright_Beige_Linen_Drum_Black_Metal_Table_Lamp_for_Living_Room_Nightstand_Bedside_Table_Lamp_for_Bedroom_LED_Lamp.jpg?v=1728335327"
+            }
+        },
+        "offerpad-NeoProduct.B09081E6-7F0E-4B06-8A8E-77C58721A200": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.2264952659606934,
+                        5.5837531089782715,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.B09081E6-7F0E-4B06-8A8E-77C58721A200",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.B09081E6-7F0E-4B06-8A8E-77C58721A200.glb"
+            }
+        },
+        "offerpad-NeoProduct.BC0DCC50-404B-4489-9F94-BCC99268E609": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.4123857021331787,
+                        4.3434295654296875,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.BC0DCC50-404B-4489-9F94-BCC99268E609",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.BC0DCC50-404B-4489-9F94-BCC99268E609.glb"
+            }
+        },
+        "offerpad-NeoProduct.C25BCD2C-4C5D-4D8E-AB01-3217462CDEBA": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.08322811126709,
+                        8.622078895568848,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.C25BCD2C-4C5D-4D8E-AB01-3217462CDEBA",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.C25BCD2C-4C5D-4D8E-AB01-3217462CDEBA.glb"
+            }
+        },
+        "offerpad-NeoProduct.4237D6A8-0594-46F4-A6A8-F00F7AFA44C6": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.338628768920898,
+                        7.196321487426758,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.4237D6A8-0594-46F4-A6A8-F00F7AFA44C6",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.4237D6A8-0594-46F4-A6A8-F00F7AFA44C6.glb"
+            }
+        },
+        "offerpad-NeoProduct.9E04D67E-591E-4B36-8506-430AD9D328D1": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.353973865509033,
+                        8.384561538696289,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.9E04D67E-591E-4B36-8506-430AD9D328D1",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.9E04D67E-591E-4B36-8506-430AD9D328D1.glb"
+            }
+        },
+        "offerpad-NeoProduct.D2287C0A-2A3D-4263-B665-45D249157915": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.6486026048660278,
+                        -3.694277048110962,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D2287C0A-2A3D-4263-B665-45D249157915",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D2287C0A-2A3D-4263-B665-45D249157915.glb",
+                "id": "offerpad-NeoProduct.D2287C0A-2A3D-4263-B665-45D249157915",
+                "name": "Walker Edison | Sherpa Modern Cloud Accent Chair",
+                "price": 257,
+                "mrp": 454,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_Sherpa_Modern_Accent_Chair_Lambskin_Sherpa_Fabric_Upholstered_Comfy_Reading_Arm_Chair_Soft_Padded_Armchair_with_Back_and_Pillow_for_Living_Room_Bedroom_Reception_Waiting_Room_Office_Seaweed_Green.jpg?v=1727283362"
+            }
+        },
+        "offerpad-NeoProduct.D44C9D9A-DF55-4C18-BBBA-80FCA381DC36": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -5.073368549346924,
+                        0.5230942368507385,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D44C9D9A-DF55-4C18-BBBA-80FCA381DC36",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D44C9D9A-DF55-4C18-BBBA-80FCA381DC36.glb"
+            }
+        },
+        "offerpad-NeoProduct.D56106C5-0700-4B4F-A717-C2391F6FA7E6": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.45950600504875183,
+                        3.9217686653137207,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D56106C5-0700-4B4F-A717-C2391F6FA7E6",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D56106C5-0700-4B4F-A717-C2391F6FA7E6.glb"
+            }
+        },
+        "offerpad-NeoProduct.D77A4A04-8C22-4E03-A11F-ECF635CE01EE": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.9672040939331055,
+                        -1.6859681606292725,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D77A4A04-8C22-4E03-A11F-ECF635CE01EE",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D77A4A04-8C22-4E03-A11F-ECF635CE01EE.glb"
+            }
+        },
+        "offerpad-NeoProduct.D7F10016-26E2-45B9-9BE4-41E16D7EF06E": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.1425390243530273,
+                        8.170397758483887,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D7F10016-26E2-45B9-9BE4-41E16D7EF06E",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D7F10016-26E2-45B9-9BE4-41E16D7EF06E.glb"
+            }
+        },
+        "offerpad-NeoProduct.45A774C3-F369-4088-8515-F0A87AF25F1D": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.444204330444336,
+                        -6.494289875030518,
+                        0.04044502601027489
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.45A774C3-F369-4088-8515-F0A87AF25F1D",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.45A774C3-F369-4088-8515-F0A87AF25F1D.glb"
+            }
+        },
+        "offerpad-NeoProduct.57AE767B-ADF4-428A-A727-D742BDB0AD97": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.3574111461639404,
+                        -4.6858649253845215,
+                        0.04044502601027489
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.57AE767B-ADF4-428A-A727-D742BDB0AD97",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.57AE767B-ADF4-428A-A727-D742BDB0AD97.glb",
+                "id": "offerpad-NeoProduct.57AE767B-ADF4-428A-A727-D742BDB0AD97",
+                "name": "Tempestes Modern Sliding-Top Coffee Table",
+                "price": 304,
+                "mrp": 441,
+                "image_url": "https://walkeredison.com/cdn/shop/products/ac37e57d134fd6068a9f74614cae384ea03767de.jpg?v=1677716771"
+            }
+        },
+        "offerpad-NeoProduct.E27037F8-8236-41D8-BA01-D0DD405AC025": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.118856906890869,
+                        7.613470077514648,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.E27037F8-8236-41D8-BA01-D0DD405AC025",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.E27037F8-8236-41D8-BA01-D0DD405AC025.glb"
+            }
+        },
+        "offerpad-NeoProduct.E964B72A-762B-42A4-B3DA-A0D4D1879399": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.48335525393486023,
+                        4.360269546508789,
+                        0.03052074834704399
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.E964B72A-762B-42A4-B3DA-A0D4D1879399",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.E964B72A-762B-42A4-B3DA-A0D4D1879399.glb"
+            }
+        },
+        "offerpad-NeoProduct.06D38F1C-4824-4D85-85AD-783B9FCA60EE": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.3664889335632324,
+                        3.3712384700775146,
+                        0.8559846878051758
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.06D38F1C-4824-4D85-85AD-783B9FCA60EE",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.06D38F1C-4824-4D85-85AD-783B9FCA60EE.glb"
+            }
+        },
+        "offerpad-NeoProduct.F7D6870D-74C8-4282-BBD8-58D22FD779C8": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        0.620144784450531,
+                        3.330759286880493,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.F7D6870D-74C8-4282-BBD8-58D22FD779C8",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.F7D6870D-74C8-4282-BBD8-58D22FD779C8.glb"
+            }
+        },
+        "offerpad-NeoProduct.115E061D-7CDD-4239-AD4D-CE93FFFFFF55": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -0.13478416204452515,
+                        3.1211042404174805,
+                        0.9770902395248413
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.115E061D-7CDD-4239-AD4D-CE93FFFFFF55",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.115E061D-7CDD-4239-AD4D-CE93FFFFFF55.glb"
+            }
+        },
+        "offerpad-NeoProduct.11738820-85C0-45AE-8BCD-8E2BDCFCB7EB": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        4.2379326820373535,
+                        -1.5776724815368652,
+                        1.8805644512176514
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.11738820-85C0-45AE-8BCD-8E2BDCFCB7EB",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.11738820-85C0-45AE-8BCD-8E2BDCFCB7EB.glb"
+            }
+        },
+        "offerpad-NeoProduct.3EA1622D-EADF-49F5-9A16-68B55148EE68": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.645878314971924,
+                        -5.376862525939941,
+                        0.5556216239929199
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.3EA1622D-EADF-49F5-9A16-68B55148EE68",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.3EA1622D-EADF-49F5-9A16-68B55148EE68.glb"
+            }
+        },
+        "offerpad-NeoProduct.C75A4397-725C-463B-8A9A-48A923DE3780": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.9165947437286377,
+                        2.676168918609619,
+                        0.024384047836065292
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.C75A4397-725C-463B-8A9A-48A923DE3780",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.C75A4397-725C-463B-8A9A-48A923DE3780.glb"
+            }
+        },
+        "offerpad-NeoProduct.0C83DADA-750F-45B8-B4BB-46F829B05255": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.623399019241333,
+                        -0.202406644821167,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.0C83DADA-750F-45B8-B4BB-46F829B05255",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.0C83DADA-750F-45B8-B4BB-46F829B05255.glb",
+                "id": "offerpad-NeoProduct.0C83DADA-750F-45B8-B4BB-46F829B05255",
+                "name": "Paris Modern Scandinavian Reeded Nightstand",
+                "price": 114,
+                "mrp": 168,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Modern_Scandivanian_Wood_Nightstand.jpg?v=1728921979"
+            }
+        },
+        "offerpad-NeoProduct.273285D2-9A3A-4096-AFC2-85DFA9B2B4A4": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.0021307468414307,
+                        3.12315034866333,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.273285D2-9A3A-4096-AFC2-85DFA9B2B4A4",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.273285D2-9A3A-4096-AFC2-85DFA9B2B4A4.glb"
+            }
+        },
+        "offerpad-NeoProduct.2D14D82E-F375-417D-9932-F51F663DDED1": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.6232197284698486,
+                        0.46900615096092224,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2D14D82E-F375-417D-9932-F51F663DDED1",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2D14D82E-F375-417D-9932-F51F663DDED1.glb"
+            }
+        },
+        "offerpad-NeoProduct.2D787DCA-C6D8-4200-AAEE-8DFF7B12B2C1": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.632862091064453,
+                        -0.22851619124412537,
+                        0.036619607359170914
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2D787DCA-C6D8-4200-AAEE-8DFF7B12B2C1",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2D787DCA-C6D8-4200-AAEE-8DFF7B12B2C1.glb",
+                "id": "offerpad-NeoProduct.2D787DCA-C6D8-4200-AAEE-8DFF7B12B2C1",
+                "name": "Huntsman Wood Dining Table",
+                "price": 500,
+                "mrp": 748,
+                "image_url": "https://walkeredison.com/cdn/shop/products/TW60HDO-1-2_copy.jpg?v=1634942639"
+            }
+        },
+        "offerpad-NeoProduct.2DDC3B71-5D2B-46FE-AAE7-CC1AC0D23F84": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.3835327625274658,
+                        -0.21557117998600006,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2DDC3B71-5D2B-46FE-AAE7-CC1AC0D23F84",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2DDC3B71-5D2B-46FE-AAE7-CC1AC0D23F84.glb",
+                "id": "offerpad-NeoProduct.2DDC3B71-5D2B-46FE-AAE7-CC1AC0D23F84",
+                "name": "Paris Modern Scandinavian Reeded Nightstand",
+                "price": 114,
+                "mrp": 168,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Modern_Scandivanian_Wood_Nightstand.jpg?v=1728921979"
+            }
+        },
+        "offerpad-NeoProduct.4DED5FF1-DB5D-4B91-954C-9F4A4AC9047E": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.910271406173706,
+                        -6.112586975097656,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.4DED5FF1-DB5D-4B91-954C-9F4A4AC9047E",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.4DED5FF1-DB5D-4B91-954C-9F4A4AC9047E.glb",
+                "id": "offerpad-NeoProduct.4DED5FF1-DB5D-4B91-954C-9F4A4AC9047E",
+                "name": "Odette Transitional Farmhouse Nightstand Collection",
+                "price": 193,
+                "mrp": 279,
+                "image_url": "https://walkeredison.com/cdn/shop/products/Farmhouse_Nightstand.jpg?v=1729539266"
+            }
+        },
+        "offerpad-NeoProduct.546A8641-21CC-489C-8C4E-F1DBCDA4F721": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.080791711807251,
+                        -1.0540878772735596,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.546A8641-21CC-489C-8C4E-F1DBCDA4F721",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.546A8641-21CC-489C-8C4E-F1DBCDA4F721.glb",
+                "id": "offerpad-NeoProduct.546A8641-21CC-489C-8C4E-F1DBCDA4F721",
+                "name": "Walker Edison | Cream Square Side Table",
+                "price": 245,
+                "mrp": 439,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_Cream_Square_Side_Table.jpg?v=1727461346"
+            }
+        },
+        "offerpad-NeoProduct.69001500-DDD4-4BF0-8552-B9F3373E621F": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.5324299335479736,
+                        5.078002452850342,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.69001500-DDD4-4BF0-8552-B9F3373E621F",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.69001500-DDD4-4BF0-8552-B9F3373E621F.glb",
+                "id": "offerpad-NeoProduct.69001500-DDD4-4BF0-8552-B9F3373E621F",
+                "name": "Boutique Rugs - Afya Washable Area Rug",
+                "price": 36,
+                "mrp": 90,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Afya-Washable-Area-Rug---ourwesternjourney-_282_29-2.jpg?v=1712216482"
+            }
+        },
+        "offerpad-NeoProduct.6C9723C7-385E-47B6-A22E-E5400971B773": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -3.4743051528930664,
+                        -5.0185980796813965,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.6C9723C7-385E-47B6-A22E-E5400971B773",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.6C9723C7-385E-47B6-A22E-E5400971B773.glb",
+                "id": "offerpad-NeoProduct.6C9723C7-385E-47B6-A22E-E5400971B773",
+                "name": "Walker Edison | L-Shape Sectional Sherpa Modular Couch with Chaise Lounge",
+                "price": 660,
+                "mrp": 1168,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Walker_Edison_L-Shape_Sectional_Sherpa_Modular_Couch_with_Chaise_Lounge.jpg?v=1727883691"
+            }
+        },
+        "offerpad-NeoProduct.701BDB42-1C03-415A-B174-1A60D9F76CD7": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.498589038848877,
+                        0.529084324836731,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.701BDB42-1C03-415A-B174-1A60D9F76CD7",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.701BDB42-1C03-415A-B174-1A60D9F76CD7.glb",
+                "id": "offerpad-NeoProduct.701BDB42-1C03-415A-B174-1A60D9F76CD7",
+                "name": "Gastonia Queen Metal and Upholstered Bed with Arched Headboard",
+                "price": 378,
+                "mrp": 603,
+                "image_url": "https://walkeredison.com/cdn/shop/files/e9633894361dd87b66377b8d1f339170a4404f42.jpg?v=1695091547"
+            }
+        },
+        "offerpad-NeoProduct.70FCA8DE-7AC2-4A7A-ABBF-3611DBAF8986": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.314392328262329,
+                        5.7722368240356445,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.70FCA8DE-7AC2-4A7A-ABBF-3611DBAF8986",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.70FCA8DE-7AC2-4A7A-ABBF-3611DBAF8986.glb"
+            }
+        },
+        "offerpad-NeoProduct.98B653BA-5927-4408-809B-83529BAD0894": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.614437222480774,
+                        6.716634750366211,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.98B653BA-5927-4408-809B-83529BAD0894",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.98B653BA-5927-4408-809B-83529BAD0894.glb",
+                "id": "offerpad-NeoProduct.98B653BA-5927-4408-809B-83529BAD0894",
+                "name": "Chantelle Modern Curved Writing Desk",
+                "price": 230,
+                "mrp": 288,
+                "image_url": "https://walkeredison.com/cdn/shop/files/chantelle_desk_behind_sofa.jpg?v=1728414649"
+            }
+        },
+        "offerpad-NeoProduct.A25F6A67-A55F-4FA0-8457-1525250C1F96": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        2.055901527404785,
+                        -4.730340957641602,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.A25F6A67-A55F-4FA0-8457-1525250C1F96",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.A25F6A67-A55F-4FA0-8457-1525250C1F96.glb",
+                "id": "offerpad-NeoProduct.A25F6A67-A55F-4FA0-8457-1525250C1F96",
+                "name": "Boutique Rugs - Alaca Wool Area Rug",
+                "price": 249,
+                "mrp": 640,
+                "image_url": "https://walkeredison.com/cdn/shop/files/arl2304-roomscene_201.jpg?v=1712426820"
+            }
+        },
+        "offerpad-NeoProduct.AD55BBCA-ADA8-4BF0-A81D-F68EDA117A93": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        3.8972699642181396,
+                        -3.353623151779175,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.AD55BBCA-ADA8-4BF0-A81D-F68EDA117A93",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.AD55BBCA-ADA8-4BF0-A81D-F68EDA117A93.glb",
+                "id": "offerpad-NeoProduct.AD55BBCA-ADA8-4BF0-A81D-F68EDA117A93",
+                "name": "Odette Transitional Farmhouse Nightstand Collection",
+                "price": 193,
+                "mrp": 279,
+                "image_url": "https://walkeredison.com/cdn/shop/products/Farmhouse_Nightstand.jpg?v=1729539266"
+            }
+        },
+        "offerpad-NeoProduct.CA39A1A2-CA91-496B-A864-489D58EDFF5A": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -4.346312999725342,
+                        7.790441513061523,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.CA39A1A2-CA91-496B-A864-489D58EDFF5A",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.CA39A1A2-CA91-496B-A864-489D58EDFF5A.glb"
+            }
+        },
+        "offerpad-NeoProduct.D7F14D0C-D08C-4AF1-B031-FE456B84E981": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.5570385456085205,
+                        -4.958477973937988,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.D7F14D0C-D08C-4AF1-B031-FE456B84E981",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.D7F14D0C-D08C-4AF1-B031-FE456B84E981.glb",
+                "id": "offerpad-NeoProduct.D7F14D0C-D08C-4AF1-B031-FE456B84E981",
+                "name": "Boutique Rugs - Djugun Outdoor Rug",
+                "price": 49,
+                "mrp": 90,
+                "image_url": "https://walkeredison.com/cdn/shop/files/lifebyleanna---Djugun-Outdoor-Rug-2.jpg?v=1715294489"
+            }
+        },
+        "offerpad-NeoProduct.ED6EACE7-C940-4091-8777-4B92E05D09F3": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.8531049489974976,
+                        3.423448324203491,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.ED6EACE7-C940-4091-8777-4B92E05D09F3",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.ED6EACE7-C940-4091-8777-4B92E05D09F3.glb",
+                "id": "offerpad-NeoProduct.ED6EACE7-C940-4091-8777-4B92E05D09F3",
+                "name": "Atticus Solid Wood Mid-Century Modern Dresser",
+                "price": 463,
+                "mrp": 672,
+                "image_url": "https://walkeredison.com/cdn/shop/files/BRATT6DRDWT_US_EW_LS_01.jpg?v=1723577170"
+            }
+        },
+        "offerpad-NeoProduct.2B7EB1F0-21BD-4C73-A992-05F6FC55EC7B": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.796363592147827,
+                        -0.11873199790716171,
+                        0.03048006072640419
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                1,
+                1,
+                1
+            ],
+            "identifier": "offerpad-NeoProduct.2B7EB1F0-21BD-4C73-A992-05F6FC55EC7B",
+            "metadata": {
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//spatio/offerpad-NeoProduct.2B7EB1F0-21BD-4C73-A992-05F6FC55EC7B.glb",
+                "id": "offerpad-NeoProduct.2B7EB1F0-21BD-4C73-A992-05F6FC55EC7B",
+                "name": "Boutique Rugs - Agoo Area Rug",
+                "price": 117,
+                "mrp": 240,
+                "image_url": "https://walkeredison.com/cdn/shop/files/Agoo-Area-Rug-BoHoGlamHaus-1.jpg?v=1712426863"
+            }
+        },
+        "b3e3dc8c183f4c01bd12cba71b115c36": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -2.34779245330608,
+                        0.9173763744508765,
+                        0.41999999999999993
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                0.85,
+                0.7,
+                0.84
+            ],
+            "identifier": "b3e3dc8c183f4c01bd12cba71b115c36",
+            "metadata": {
+                "annotation": {
+                    "description": "This is a modern armchair with a sleek design, featuring a minimalist frame and plush seating. The chair has a comfortable backrest and armrests, making it suitable for contemporary living spaces.",
+                    "python_variable_name": "modern_armchair_77a5a7ab99b5407fb05123eb6e4c28f0",
+                    "category": "armchair",
+                    "width": 70,
+                    "depth": 80,
+                    "height": 85,
+                    "volume": 0.5,
+                    "materials": [
+                        "fabric",
+                        "metal",
+                        "foam",
+                        "air"
+                    ],
+                    "composition": [
+                        0.5,
+                        0.3,
+                        0.2,
+                        0
+                    ],
+                    "mass": 15,
+                    "receptacle": false,
+                    "frontView": 0,
+                    "onCeiling": false,
+                    "onWall": false,
+                    "onFloor": true,
+                    "onObject": false,
+                    "isPhotorealistic": true,
+                    "uid": "77a5a7ab99b5407fb05123eb6e4c28f0",
+                    "pose_z_rot_angle": 0,
+                    "scale": 0.85,
+                    "z_axis_scale": true,
+                    "dim_x": 0.7,
+                    "dim_y": 0.85,
+                    "dim_z": 0.84
+                },
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/77a5a7ab99b5407fb05123eb6e4c28f0/processed_asset.glb",
+                "thumbnail_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/77a5a7ab99b5407fb05123eb6e4c28f0/blender_renders/render_0.0.jpg"
+            }
+        }
+    }
+}

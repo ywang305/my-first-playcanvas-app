@@ -1,0 +1,322 @@
+{
+    "objects": {
+        "walls_1": {
+            "category": "walls",
+            "material": {
+                "id": "Plastic016B"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        -4.24,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        4.58,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        4.58,
+                        -1.31,
+                        3
+                    ],
+                    [
+                        -4.24,
+                        -1.31,
+                        3
+                    ]
+                ],
+                "thickness": 0.1
+            }
+        },
+        "walls_2": {
+            "category": "walls",
+            "material": {
+                "id": "Plastic016B"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        4.58,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        4.58,
+                        1.25,
+                        0
+                    ],
+                    [
+                        4.58,
+                        1.25,
+                        3
+                    ],
+                    [
+                        4.58,
+                        -1.31,
+                        3
+                    ]
+                ],
+                "thickness": 0.1
+            }
+        },
+        "walls_3": {
+            "category": "walls",
+            "material": {
+                "id": "Plastic016B"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        4.58,
+                        1.25,
+                        0
+                    ],
+                    [
+                        -4.24,
+                        1.25,
+                        0
+                    ],
+                    [
+                        -4.24,
+                        1.25,
+                        3
+                    ],
+                    [
+                        4.58,
+                        1.25,
+                        3
+                    ]
+                ],
+                "thickness": 0.1
+            }
+        },
+        "walls_0": {
+            "category": "walls",
+            "material": {
+                "id": "Plastic016B"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        -4.24,
+                        1.25,
+                        0
+                    ],
+                    [
+                        -4.24,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        -4.24,
+                        -1.31,
+                        3
+                    ],
+                    [
+                        -4.24,
+                        1.25,
+                        3
+                    ]
+                ],
+                "thickness": 0.1
+            }
+        },
+        "floors": {
+            "category": "floors",
+            "material": {
+                "id": "Granite005B"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        -4.24,
+                        1.25,
+                        0
+                    ],
+                    [
+                        -4.24,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        4.58,
+                        -1.31,
+                        0
+                    ],
+                    [
+                        4.58,
+                        1.25,
+                        0
+                    ]
+                ]
+            }
+        },
+        "ceilings": {
+            "category": "ceilings",
+            "material": {
+                "id": "OfficeCeiling001"
+            },
+            "metadata": {
+                "polygon": [
+                    [
+                        -4.24,
+                        1.25,
+                        3
+                    ],
+                    [
+                        -4.24,
+                        -1.31,
+                        3
+                    ],
+                    [
+                        4.58,
+                        -1.31,
+                        3
+                    ],
+                    [
+                        4.58,
+                        1.25,
+                        3
+                    ]
+                ]
+            }
+        },
+        "counter_display": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        -1.35,
+                        -1.08,
+                        0.31
+                    ],
+                    "rotation": [
+                        0,
+                        -450,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                -0.46,
+                1.2,
+                -0.62
+            ],
+            "identifier": "cd92b6306096412482d1827c74bc263f",
+            "metadata": {
+                "annotation": {
+                    "description": "This object is a display case with a glass top and sides, featuring a wooden base. It is designed to showcase items while providing protection from dust and damage.",
+                    "python_variable_name": "display_case_cd92b6306096412482d1827c74bc263f",
+                    "category": "display case",
+                    "width": 120,
+                    "depth": 60,
+                    "height": 80,
+                    "volume": 576,
+                    "materials": [
+                        "glass",
+                        "wood",
+                        "metal",
+                        "air"
+                    ],
+                    "composition": [
+                        0.5,
+                        0.3,
+                        0.2,
+                        0
+                    ],
+                    "mass": 45,
+                    "receptacle": false,
+                    "frontView": 0,
+                    "onCeiling": false,
+                    "onWall": false,
+                    "onFloor": true,
+                    "onObject": false,
+                    "isPhotorealistic": true,
+                    "uid": "cd92b6306096412482d1827c74bc263f",
+                    "pose_z_rot_angle": 0,
+                    "scale": 0.8,
+                    "z_axis_scale": true,
+                    "dim_x": 1.2,
+                    "dim_y": 0.46,
+                    "dim_z": 0.62
+                },
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/cd92b6306096412482d1827c74bc263f/processed_asset.glb",
+                "thumbnail_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/cd92b6306096412482d1827c74bc263f/blender_renders/render_0.0.jpg"
+            }
+        },
+        "display_units": {
+            "category": "objects",
+            "placements": [
+                {
+                    "position": [
+                        1.26,
+                        -0.07,
+                        0.9
+                    ],
+                    "rotation": [
+                        0,
+                        -180,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bbox_size": [
+                -1.04,
+                1.51,
+                -1.8
+            ],
+            "identifier": "9159c17cb40045d6aaa22145bb2af4d5",
+            "metadata": {
+                "annotation": {
+                    "description": "This display rack features various paint cans and promotional signage, showcasing a colorful arrangement of products. The structure is designed for retail environments, emphasizing discounts and special offers.",
+                    "python_variable_name": "paint_display_rack",
+                    "category": "display rack",
+                    "width": 120,
+                    "depth": 60,
+                    "height": 180,
+                    "volume": 1296,
+                    "materials": [
+                        "metal",
+                        "plastic",
+                        "cardboard"
+                    ],
+                    "composition": [
+                        0.5,
+                        0.3,
+                        0.2
+                    ],
+                    "mass": 45,
+                    "receptacle": false,
+                    "frontView": 0,
+                    "onCeiling": false,
+                    "onWall": false,
+                    "onFloor": true,
+                    "onObject": false,
+                    "isPhotorealistic": true,
+                    "uid": "9159c17cb40045d6aaa22145bb2af4d5",
+                    "pose_z_rot_angle": 0,
+                    "scale": 1.8,
+                    "z_axis_scale": true,
+                    "dim_x": 1.51,
+                    "dim_y": 1.04,
+                    "dim_z": 1.8
+                },
+                "asset_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/9159c17cb40045d6aaa22145bb2af4d5/processed_asset.glb",
+                "thumbnail_url": "https://playcanvas-public.s3.amazonaws.com//viscam/data/objaverse_filter_preprocessed/objathor_preprocessed/9159c17cb40045d6aaa22145bb2af4d5/blender_renders/render_0.0.jpg"
+            }
+        }
+    }
+}
